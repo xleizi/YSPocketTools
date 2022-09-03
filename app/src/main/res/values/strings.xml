@@ -1,0 +1,165 @@
+<resources>
+    <string name="app_name">原神口袋工具</string>
+    <string name="pleaseLogin">点击加号登陆→→→→</string>
+    <string name="pleaseLogin2">请回主界面登录</string>
+    <string name="pleaseLogin3">请点击登录</string>
+    <string name="konguid">000000000</string>
+    <string name="realTimeNote">实时便笺</string>
+    <string name="resinTitle">原粹树脂</string>
+    <string name="yujiyu">预计于</string>
+    <string name="resinAccomplish">已回满</string>
+
+    <string name="beginRead">使用前必读</string>
+
+    <string name="MainUID">当前账号</string>
+    <string name="uidManager">账号管理</string>
+    <string name="uidLog">已登录账号</string>
+    <string name="input_cookie">填写Cookie</string>
+    <string name="cancel">取消</string>
+    <string name="error_cookie">输入的Cookie可能有问题哦</string>
+    <string name="confirm">确认</string>
+
+    <string name="homeCoinTitle">洞天宝钱</string>
+    <string name="dailyTaskTitle">每日委托</string>
+    <string name="dailyTaskSubmit">已提交</string>
+    <string name="dailyTaskUnSubmit">未提交</string>
+    <string name="exploreTitle">探索派遣</string>
+    <string name="exploreAccomplish">已回归</string>
+    <string name="accomplish">完成</string>
+    <string name="predict">预计</string>
+    <string name="weeklyTitle">半价周本</string>
+    <string name="weeklyEmpty">已用完</string>
+    <string name="transTitle">参量质变仪</string>
+    <string name="NotAvailable">暂无数据</string>
+    <string name="TranAvailable">可使用</string>
+    <string name="day">天</string>
+    <string name="zeroDay">零天</string>
+    <string name="oneDay">一天</string>
+    <string name="twoDay">两天</string>
+    <string name="threeDay">三天</string>
+    <string name="fourDay">四天</string>
+    <string name="fiveDay">五天</string>
+    <string name="sixDay">六天</string>
+    <string name="sevenDay">七天</string>
+    <string name="UnknownData">未知数据</string>
+    <string name="saveFailed">保存失败，最多保存10个uid</string>
+    <string name="yes">是</string>
+    <string name="no">否</string>
+    <string name="onlyResin">仅树脂(给显示不全的用的)</string>
+
+    <string name="input_error">输入有误</string>
+    <string name="corner">圆角</string>
+    <string name="alpha">透明度</string>
+    <string name="refreshAndSign">刷新并自动签到中。。。</string>
+    <string name="refreshWait10s">请等待10s再刷新</string>
+
+    <string name="WidgetSize">桌面小部件大小</string>
+    <string name="WidgetAlpha">透明组件背景透明度(安卓11以下只能纯透明)</string>
+    <string name="WidgetAlpha2">透明组件背景透明度</string>
+    <string name="WidgetAlpha3">(安卓11以下桌面无圆角不建议使用)</string>
+    <string name="WidgetTheme">请选择非透明部件主题颜色</string>
+    <string name="WidgetTextColor">请选择透明部件字体颜色</string>
+    <string name="WidgetItem">请选择单独小组件显示的内容</string>
+    <string name="WidgetItemTime">请选择单独小组件是否显示时间</string>
+    <string name="WidgetSelectUid">请选择需要显示的UID</string>
+    <string name="CantChange">安卓11以下无法调整透明度</string>
+    <string name="CantChange2">安卓11以下建议设为0</string>
+    <string name="yeming">爷名：</string>
+
+    <string name="timer">刷新时间:</string>
+    <string name="timer2">12:30:30</string>
+    <string name="level">级</string>
+    <string name="level2">等级</string>
+    <string name="otherUID">其他账号：</string>
+    <string name="sign">米游社签到</string>
+    <string name="signing">签到中~~~</string>
+    <string name="signReward">签到结果：</string>
+    <string name="signRewardAll">全部签到</string>
+    <string name="signSuccess">签到成功</string>
+    <string name="signTooMany">签到过于频繁</string>
+    <string name="signWaiting">签到中，请等待。。。</string>
+    <string name="server">服务器：</string>
+    <string name="signThisMonth">本月签到：</string>
+    <string name="signTodayAward">今日奖励：</string>
+    <string name="comeingSoon">建设中~~~</string>
+    <string name="getError">权限获取失败请手动去设置界面获取</string>
+
+    <string name="get_cookie_success">获取cookie成功</string>
+    <string name="get_cookie_failed">cookie格式错误</string>
+    <string name="copy_cookie_success">主账号cookie已复制到剪贴板</string>
+
+    <string name="TimeForm">dd日 HH:mm</string>
+    <string name="TimeForm4">MM月dd日 HH:mm</string>
+    <string name="TimeForm2">MM月dd日 HH时mm分</string>
+    <string name="TimeForm3">dd日 HH时mm分</string>
+    <string name="Hours">小时</string>
+    <string name="Minutes">分</string>
+    <string name="Days">天</string>
+    <string name="stillNeed">还需 </string>
+    <string name="full">回满</string>
+    <string name="aimtime">预计时间：</string>
+    <string name="loadError">获取数据失败请重新稍后再试</string>
+
+    <string name="sheng">剩</string>
+    <string name="ge">个</string>
+
+    <string name="agree">同意</string>
+    <string name="disagree">不同意</string>
+
+    <string name="start_app">启动APP</string>
+    <string name="MISign">米游社签到</string>
+    <string name="start_app_select">点击通知栏启动选项</string>
+    <string name="start_notice_select">选择通知栏样式</string>
+    <string name="cuiming">催命模式</string>
+    <string name="genshin">原神</string>
+    <string name="Bgenshin">原神B</string>
+    <string name="yun_genshin">云原神</string>
+    <string name="miyoushe">米游社</string>
+    <string name="OSgenshin">原神国际服</string>
+    <string name="Exit">彻底退出</string>
+    <string name="ignoreBatteryOptimization">忽略电池优化</string>
+    <string name="alreadyIgnoreBatteryOptimization">已忽略电池优化</string>
+    <string name="getHelp">获取帮助</string>
+    <string name="videohelp">视频帮助</string>
+    <string name="qqhelp">加入Q群</string>
+
+    <string name="resinNotication">树脂通知</string>
+    <string name="homecoinNotication">宝钱通知</string>
+    <string name="expNotication">探索通知</string>
+    <string name="pleaserefresh">请彻底杀后台重进或等软件自动刷新</string>
+
+    <string name="resinCui">树脂催命</string>
+    <string name="homecoinCui">宝钱催命</string>
+    <string name="expCui">探索催命</string>
+
+    <!--通知提醒文字-->
+    <string name="NoticeStr">常规提醒通知</string>
+    <string name="ResinNoticeStr">树脂提醒通知</string>
+    <string name="homecoinNoticeStr">树脂提醒通知</string>
+    <string name="ExploreNoticeStr">探索提醒通知</string>
+    <string name="PermanentNoticeStr">常驻通知</string>
+    <string name="DailyNoticeStr">每日提醒推送</string>
+    <string name="updateNoticeStr">每日提醒推送</string>
+    <string name="ResinNoticeTitle">树脂提醒</string>
+    <string name="SignNoticeTitle">签到提醒</string>
+    <string name="Resinhave">树脂还有</string>
+    <string name="ResinAlreadyFull">树脂已经满了！</string>
+    <string name="jiuManLe">就满了!</string>
+    <string name="HomeCoinNoticeTitle">宝钱提醒</string>
+    <string name="HomeCoinhave">宝钱还有</string>
+    <string name="HomeCoinAlreadyFull">宝钱已经满了！</string>
+    <string name="ExploreFinish">探索完成提醒</string>
+    <string name="ExploreAlreadyFinish">探索已完成</string>
+    <string name="recovertime">预计全部恢复时间</string>
+
+    <string name="WidgetTextColorSelect">选择颜色</string>
+    <!--普通用文字-->
+    <string name="YesButton">确定</string>
+    <string name="CancelButton">取消</string>
+    <string name="SettingSuccess">修改成功！</string>
+    <string name="SettingPleaseRestart">修改成功！请在隔壁页面彻底退出一下</string>
+    <string name="SettingFailed">修改失败！</string>
+    <string name="setButton">设置</string>
+    <string name="setColor">树脂：120/160</string>
+
+</resources>

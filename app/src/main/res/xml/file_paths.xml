@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding= "utf-8"?>
+<resources>
+    <paths >
+        <cache-path path="/" name="/" />
+        <cache-path path="files/" name="img/" />
+        <files-path path="img/" name="/" />
+        <external-path path="files/" name="extfiles" />
+        <external-path path="DCIM/" name="dcim/" />
+        <external-path path="Android/data/com.lei123.YSPocketTools/files/images/" name="images" />
+    </paths >
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?><!-- 解决 Android P 禁用 http 请求的问题 -->
+<network-security-config>
+    <!-- 允许明文通信 -->
+    <base-config cleartextTrafficPermitted="true" />
+    <!--需要配置一下不然访问不到自己的服务器-->
+    <domain-config>
+        <domain includeSubdomains="true">150.158.171.225</domain>
+        <domain includeSubdomains="true">api-yspockettools.leizi.work</domain>
+        <domain includeSubdomains="true">xleiz.coding.net</domain>
+        <domain includeSubdomains="true">api-takumi.mihoyo.com</domain>
+        <domain includeSubdomains="true">upload-bbs.mihoyo.com</domain>
+
+    </domain-config>
+
+</network-security-config>
