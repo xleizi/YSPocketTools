@@ -1,0 +1,20 @@
+{
+  "version": 3,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "com.lei123.YSPocketTools",
+  "variantName": "release",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "attributes": [],
+      "versionCode": 17,
+      "versionName": "2.6.1",
+      "outputFile": "YSPocketTools_v2.6.1.apk"
+    }
+  ],
+  "elementType": "File"
+}
