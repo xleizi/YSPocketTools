@@ -1,0 +1,5 @@
+思路是：
+1、请求createVerification获取到gt和challenge此处用DS2
+2、尝试请求"https://api.geetest.com/ajax.php?gt=${gt}&challenge=${challenge}&lang=zh-cn&pt=3&client_type=web_mobile"无感验证，并返回validate
+3、请求verifyVerification发回geetest_validate，geetest_seccode，geetest_challenge 此处用DS2
+再获取树脂即可
